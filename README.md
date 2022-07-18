@@ -1,6 +1,6 @@
 # Group 1's Census Data Analysis
 
-**Group Members**
+# Group Members
 
 Hayden Muscha
 
@@ -16,7 +16,7 @@ Zheding Zhao
 
 2. Jupyter Notebook is installed (or other Python IDE that supports .ipynb files)
 
-**File Explained
+**File Explained**
 
 Census_Data.ipynb: Jupyter Notebook file for Census Data ETL code and Visualizations' code
 
