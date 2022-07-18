@@ -10,13 +10,13 @@ Nathaniel Van Schyndel
 
 Zheding Zhao
 
-**Prerequisite**
+# Prerequisite
 
 1. Python is installed (a version higher than 3.8 is highly recommended)
 
 2. Jupyter Notebook is installed (or other Python IDE that supports .ipynb files)
 
-**File Explained**
+# File Explained
 
 Census_Data.ipynb: Jupyter Notebook file for Census Data ETL code and Visualizations' code
 
@@ -26,7 +26,7 @@ Project Report.pdf: Formal project report
 
 .gitignore: files that ignores config.py
 
-**Instructions**
+# Instructions
 
 1. Ask the owner for the "config.py" in order for the program to run properly
 
