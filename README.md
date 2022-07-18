@@ -1,5 +1,15 @@
 # Group 1's Census Data Analysis
 
+**Group Members**
+
+Hayden Muscha
+
+Kripanjali Dhungana
+
+Nathaniel Van Schyndel
+
+Zheding Zhao
+
 **Prerequisite**
 
 1. Python is installed (a version higher than 3.8 is highly recommended)
