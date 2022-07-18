@@ -24,6 +24,8 @@ ETL Report.pdf: Formal ETL report
 
 Project Report.pdf: Formal project report
 
+Pandas_Assessment.pdf: Presentation Slide Deck
+
 .gitignore: files that ignores config.py
 
 # Instructions
